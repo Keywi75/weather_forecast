@@ -1,0 +1,13 @@
+D:\HK4\Lap_trinh_mang_can_ban\assignment5\API\API\bin\Debug\API.exe.config
+D:\HK4\Lap_trinh_mang_can_ban\assignment5\API\API\bin\Debug\API.exe
+D:\HK4\Lap_trinh_mang_can_ban\assignment5\API\API\bin\Debug\API.pdb
+D:\HK4\Lap_trinh_mang_can_ban\assignment5\API\API\obj\Debug\API.csproj.AssemblyReference.cache
+D:\HK4\Lap_trinh_mang_can_ban\assignment5\API\API\obj\Debug\API.Form1.resources
+D:\HK4\Lap_trinh_mang_can_ban\assignment5\API\API\obj\Debug\API.Properties.Resources.resources
+D:\HK4\Lap_trinh_mang_can_ban\assignment5\API\API\obj\Debug\API.csproj.GenerateResource.cache
+D:\HK4\Lap_trinh_mang_can_ban\assignment5\API\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\HK4\Lap_trinh_mang_can_ban\assignment5\API\API\obj\Debug\API.exe
+D:\HK4\Lap_trinh_mang_can_ban\assignment5\API\API\obj\Debug\API.pdb
+D:\HK4\Lap_trinh_mang_can_ban\assignment5\API\API\bin\Debug\Newtonsoft.Json.dll
+D:\HK4\Lap_trinh_mang_can_ban\assignment5\API\API\bin\Debug\Newtonsoft.Json.xml
+D:\HK4\Lap_trinh_mang_can_ban\assignment5\API\API\obj\Debug\API.csproj.Up2Date
